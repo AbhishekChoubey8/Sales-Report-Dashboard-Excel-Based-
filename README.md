@@ -51,7 +51,7 @@ Ideal for quickly analyzing sales data at the **customer and market level**, tra
 
 ## 📌 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source.
 
 ---
 
